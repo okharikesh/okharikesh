@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Harikesh</h1>
+<h1 align="center">Hey, I'm Harikesh</h1>
 <h3 align="center">AI Developer • MERN Stack Developer • Open Source Enthusiast</h3>
 
 <p align="center">
@@ -7,25 +7,25 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Currently working on AI & Full Stack Projects
 - 🌱 Learning Machine Learning, Deep Learning & Generative AI
 - 💻 MERN Stack Developer
 - 🤖 Interested in AI Agents, LLMs & Automation
 - ⚡ Love building modern and intelligent applications
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: harikesh1029@gmail.com
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 
-### 🚀 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
@@ -70,19 +70,9 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🤖 AI Chatbot
-AI-powered chatbot using OpenAI API and React.
 
-### 🧠 Face Detection System
-Real-time face detection using Python & OpenCV.
-
-### 🌐 MERN Authentication System
-Complete authentication system with JWT and MongoDB.
-
-### 📈 AI Resume Analyzer
-Smart resume analysis using Machine Learning.
 
 ---
 
