@@ -1,10 +1,4 @@
-<h1 align="center">Hey, I'm Harikesh</h1>
-<h3 align="center">AI Developer • MERN Stack Developer • Open Source Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Smart+Web+Applications;Open+Source+Contributor" />
-</p>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Harikesh;AI+Developer;MERN+Stack+Developer;Building+Smart+Applications" />
 ---
 
 ## About Me
