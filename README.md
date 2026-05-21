@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Harikesh;AI+Developer;MERN+Stack+Developer;Building+Smart+Applications" />
 
 
-## About Me
+# About Me
 
 - 🔭 Currently working on AI & Full Stack Projects
 - 🌱 Learning Machine Learning, Deep Learning & Generative AI
@@ -12,7 +12,7 @@
 
 ---
 
-##  Tech Stack
+# Tech Stack
 
 ###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -40,13 +40,13 @@
 
 ---
 
-## 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=okharikesh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=okharikesh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=okharikesh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=okharikesh&theme=algolia&no-frame=true&row=1&column=6" />
@@ -60,7 +60,17 @@
 
 ---
 
-## 🌍 Connect With Me
+
+## 🐍 Eat My Contributions 
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+##  Connect With Me
 
 <p align="left">
 <a href="https://github.com/okharikesh">
