@@ -3,12 +3,12 @@
 
 # About Me
 
-- 🔭 Currently working on AI & Full Stack Projects
-- 🌱 Learning Machine Learning, Deep Learning & Generative AI
-- 💻 MERN Stack Developer
-- 🤖 Interested in AI Agents, LLMs & Automation
-- ⚡ Love building modern and intelligent applications
-- 📫 Reach me at: harikesh1029@gmail.com
+-  Currently working on AI & Full Stack Projects
+-  Learning Machine Learning, Deep Learning & Generative AI
+-  MERN Stack Developer
+-  Interested in AI Agents, LLMs & Automation
+-  Love building modern and intelligent applications
+-  Reach me at: harikesh1029@gmail.com
 
 ---
 
